@@ -2,6 +2,7 @@
   "name": "bob-mcgee-website",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://RikiZimbakov.github.io/bob-mcgee-website",
   "dependencies": {
     "@react-three/drei": "^10.0.6",
     "@react-three/fiber": "^9.1.2",
