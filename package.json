@@ -2,7 +2,7 @@
   "name": "bob-mcgee-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://RikiZimbakov.github.io/bob-mcgee-website",
+  "homepage": "https://RikiZimbakov.github.io/bobmcgeeCursor",
   "dependencies": {
     "@react-three/drei": "^10.0.6",
     "@react-three/fiber": "^9.1.2",
@@ -26,7 +26,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "PUBLIC_URL=. react-scripts build --public-url .",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
